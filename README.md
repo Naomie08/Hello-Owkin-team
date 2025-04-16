@@ -48,7 +48,7 @@ Plus, I love a little challenge!
 - Building bridges between the field and the code
 - Self-taught in Python, passionate about AI ethics
 
-Check my [CV](./Naomie_Senie_CV_EN.pdf) for details, or reach out at **prevost.naomie@gmail.com**.
+Check my CV for details, or reach out at **prevost.naomie@gmail.com**.
 
 ---
 
